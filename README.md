@@ -1,4 +1,4 @@
 # The Digital World Agency
 ### [Live Site](https://thedigitalworld.surge.sh/)
 
-## he Digital World Agency's Portfolio 
+## The Digital World Agency's Portfolio 
